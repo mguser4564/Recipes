@@ -1,0 +1,31 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: beige;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.main-title {
+    color: #ac0404;
+}
+
+.sub-title{
+    color: #0453ac;
+}
+
+
+.description, .lists {
+    color: #ac5f04;
+}
+
+.lists{
+    font-style: oblique;
+}
+
+.list-item { 
+    background-color: white;
+}
+
